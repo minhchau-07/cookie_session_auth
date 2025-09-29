@@ -36,7 +36,7 @@ Body: { "username": "demo", "password": "12345" }
 ![Register Success](public/results/register_success.png)
 
 -MongoDB Check:
-![Users Register](public/results/users_register.png)
+![Users Register](public/results/users_reg.png)
 
 ![Sessions Register](public/results/sessions_reg.png)
 
