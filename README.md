@@ -30,7 +30,7 @@ Each step is verified not only with Postman but also directly in **MongoDB**.
 
 POST /auth/register
 
-Body: { "username": "demo", "password": "12345" }
+Body: { "username": "admin", "password": "12345" }
 
 -Postman Result:
 ![Register Success](public/results/register_success.png)
@@ -45,7 +45,7 @@ Body: { "username": "demo", "password": "12345" }
 
 POST /auth/login
 
-Body: { "username": "demo", "password": "12345" }
+Body: { "username": "admin", "password": "12345" }
 
 -Postman Result:
 ![Login Success](public/results/login_success.png)
